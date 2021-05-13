@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Among them are Hai Tien (Bruce Lee), a retired martial arts champion.
 Also there are characters played by James Tien, Chieh Yuan, Sammo Hung, and George Lazenby!
+=======
+The five contestants include:
+Hai Tien (Bruce Lee), a retired martial arts champion
+George Lazenby, a poor man's James Bond
+Sammo Hung, as an overconfident powerhouse
+Chieh Yuan, as a simple but effective fighter
+James Tien, as the devious current champion
+>>>>>>> original-plot

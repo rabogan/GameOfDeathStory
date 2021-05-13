@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Now, we will focus on five fine fighters, making their journey to a pagoda.
+=======
+Several experienced martial artists are asked to join an assault on a pagoda.
+The pagoda allegedly contains a stolen national treasure.
+>>>>>>> original-plot

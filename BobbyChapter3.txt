@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 The highlight is perhaps the finale, where Bruce squares off against Kareem Abdul-Jabaar!
+=======
+One by one, the fighters are dispatched by the guardians of the pagoda.
+In turn, the guardians are defeated.
+In the end, only Bruce Lee remains; fighting Kareem Abdul-Jabaar for the treasure!
+>>>>>>> original-plot
